@@ -11,6 +11,9 @@ The staging area prepares the files to be commited to git repository.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+The stating area works like a filter to the files that you want to commit, therefore,
+you can use it to choose the files you want to commit.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
