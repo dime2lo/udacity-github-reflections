@@ -17,6 +17,9 @@ you can use it to choose the files you want to commit.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Branches can help keeping production code working, not risking breaking it during development,
+what could mess the process to fix a bug.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
